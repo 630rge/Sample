@@ -1,1 +1,2 @@
-print("I was here")
+a = "I was here"
+print(a)
